@@ -22,6 +22,11 @@ body {
 
 .main a {
     text-decoration: none;
+    color: #3366CC;
+}
+
+.main a:visited {
+    color: #4C33CC;
 }
 
 .main a:hover {
