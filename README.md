@@ -1,3 +1,3 @@
 # online-presence
 
-A bare-bones website so that something useful has a chance of showing up when you google my name. 
+A website that (hopefully) shows up when you google my name. 
